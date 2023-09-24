@@ -14,8 +14,14 @@
           "CLINICAL.Infrastructure.dll": {}
         }
       },
+      "CLINICAL.Application.Dtos/1.0.0": {
+        "runtime": {
+          "CLINICAL.Application.Dtos.dll": {}
+        }
+      },
       "CLINICAL.Application.Interface/1.0.0": {
         "dependencies": {
+          "CLINICAL.Application.Dtos": "1.0.0",
           "CLINICAL.Domain": "1.0.0"
         },
         "runtime": {
@@ -31,6 +37,11 @@
   },
   "libraries": {
     "CLINICAL.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CLINICAL.Application.Dtos/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

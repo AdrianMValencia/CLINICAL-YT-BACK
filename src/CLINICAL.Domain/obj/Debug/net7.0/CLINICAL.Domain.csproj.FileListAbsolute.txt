@@ -13,7 +13,6 @@ C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLI
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Domain\bin\Debug\net7.0\CLINICAL.Domain.deps.json
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Domain\bin\Debug\net7.0\CLINICAL.Domain.dll
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Domain\bin\Debug\net7.0\CLINICAL.Domain.pdb
-C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Domain\obj\Debug\net7.0\CLINICAL.Domain.csproj.AssemblyReference.cache
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Domain\obj\Debug\net7.0\CLINICAL.Domain.GeneratedMSBuildEditorConfig.editorconfig
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Domain\obj\Debug\net7.0\CLINICAL.Domain.AssemblyInfoInputs.cache
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Domain\obj\Debug\net7.0\CLINICAL.Domain.AssemblyInfo.cs

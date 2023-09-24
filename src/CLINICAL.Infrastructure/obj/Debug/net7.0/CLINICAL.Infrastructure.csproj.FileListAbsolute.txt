@@ -18,9 +18,11 @@ C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLI
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Infrastructure\bin\Debug\net7.0\CLINICAL.Infrastructure.deps.json
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Infrastructure\bin\Debug\net7.0\CLINICAL.Infrastructure.dll
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Infrastructure\bin\Debug\net7.0\CLINICAL.Infrastructure.pdb
+C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Infrastructure\bin\Debug\net7.0\CLINICAL.Application.Dtos.dll
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Infrastructure\bin\Debug\net7.0\CLINICAL.Application.Interface.dll
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Infrastructure\bin\Debug\net7.0\CLINICAL.Domain.dll
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Infrastructure\bin\Debug\net7.0\CLINICAL.Application.Interface.pdb
+C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Infrastructure\bin\Debug\net7.0\CLINICAL.Application.Dtos.pdb
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Infrastructure\bin\Debug\net7.0\CLINICAL.Domain.pdb
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Infrastructure\obj\Debug\net7.0\CLINICAL.Infrastructure.csproj.AssemblyReference.cache
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Infrastructure\obj\Debug\net7.0\CLINICAL.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig

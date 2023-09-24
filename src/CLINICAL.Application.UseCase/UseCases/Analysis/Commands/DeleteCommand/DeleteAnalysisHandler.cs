@@ -1,5 +1,6 @@
 ﻿using CLINICAL.Application.Interface.Interfaces;
 using CLINICAL.Application.UseCase.Commons.Bases;
+using CLINICAL.Utilities.Constants;
 using MediatR;
 
 namespace CLINICAL.Application.UseCase.UseCases.Analysis.Commands.DeleteCommand
@@ -19,12 +20,12 @@ namespace CLINICAL.Application.UseCase.UseCases.Analysis.Commands.DeleteCommand
 
             try
             {
-                response.Data = await _unitOfWork.Analysis.ExecAsync("uspAnalysisRemove", new { request.AnalysisId });
+                response.Data = await _unitOfWork.Analysis.ExecAsync(SP.uspAnalysisRemove, request);
 
                 if (response.Data)
                 {
                     response.IsSuccess = true;
-                    response.Message = "Eliminación Exitosa!!!";
+                    response.Message = GlobalMessages.MESSAGE_DELETE;
                 }
             }
             catch (Exception ex)

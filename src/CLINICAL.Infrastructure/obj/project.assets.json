@@ -2,10 +2,21 @@
   "version": 3,
   "targets": {
     "net7.0": {
+      "CLINICAL.Application.Dtos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/CLINICAL.Application.Dtos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CLINICAL.Application.Dtos.dll": {}
+        }
+      },
       "CLINICAL.Application.Interface/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CLINICAL.Application.Dtos": "1.0.0",
           "CLINICAL.Domain": "1.0.0"
         },
         "compile": {
@@ -28,6 +39,11 @@
     }
   },
   "libraries": {
+    "CLINICAL.Application.Dtos/1.0.0": {
+      "type": "project",
+      "path": "../CLINICAL.Application.Dtos/CLINICAL.Application.Dtos.csproj",
+      "msbuildProject": "../CLINICAL.Application.Dtos/CLINICAL.Application.Dtos.csproj"
+    },
     "CLINICAL.Application.Interface/1.0.0": {
       "type": "project",
       "path": "../CLINICAL.Application.Interface/CLINICAL.Application.Interface.csproj",
@@ -102,7 +118,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -141,8 +141,10 @@ C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Api\bin\Debug\net7.0\CLINICAL.Appl
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Api\bin\Debug\net7.0\CLINICAL.Application.UseCase.dll
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Api\bin\Debug\net7.0\CLINICAL.Domain.dll
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Api\bin\Debug\net7.0\CLINICAL.Persistence.dll
+C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Api\bin\Debug\net7.0\CLINICAL.Utilities.dll
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Api\bin\Debug\net7.0\CLINICAL.Application.UseCase.pdb
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Api\bin\Debug\net7.0\CLINICAL.Persistence.pdb
+C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Api\bin\Debug\net7.0\CLINICAL.Utilities.pdb
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Api\bin\Debug\net7.0\CLINICAL.Application.Dtos.pdb
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Api\bin\Debug\net7.0\CLINICAL.Application.Interface.pdb
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Api\bin\Debug\net7.0\CLINICAL.Domain.pdb

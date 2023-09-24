@@ -16,7 +16,9 @@ C:\Users\Adrian M Valencia\OneDrive\Escritorio\OneDrive\INFO ADRIAN\Projects\CLI
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.Interface\bin\Debug\net7.0\CLINICAL.Application.Interface.deps.json
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.Interface\bin\Debug\net7.0\CLINICAL.Application.Interface.dll
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.Interface\bin\Debug\net7.0\CLINICAL.Application.Interface.pdb
+C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.Interface\bin\Debug\net7.0\CLINICAL.Application.Dtos.dll
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.Interface\bin\Debug\net7.0\CLINICAL.Domain.dll
+C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.Interface\bin\Debug\net7.0\CLINICAL.Application.Dtos.pdb
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.Interface\bin\Debug\net7.0\CLINICAL.Domain.pdb
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.Interface\obj\Debug\net7.0\CLINICAL.Application.Interface.csproj.AssemblyReference.cache
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.Interface\obj\Debug\net7.0\CLINICAL.Application.Interface.GeneratedMSBuildEditorConfig.editorconfig

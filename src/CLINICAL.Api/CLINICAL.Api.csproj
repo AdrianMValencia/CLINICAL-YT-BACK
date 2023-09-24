@@ -14,6 +14,7 @@
   <ItemGroup>
     <ProjectReference Include="..\CLINICAL.Application.UseCase\CLINICAL.Application.UseCase.csproj" />
     <ProjectReference Include="..\CLINICAL.Persistence\CLINICAL.Persistence.csproj" />
+    <ProjectReference Include="..\CLINICAL.Utilities\CLINICAL.Utilities.csproj" />
   </ItemGroup>
 
 </Project>

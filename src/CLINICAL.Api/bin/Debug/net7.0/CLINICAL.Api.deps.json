@@ -10,6 +10,7 @@
         "dependencies": {
           "CLINICAL.Application.UseCase": "1.0.0",
           "CLINICAL.Persistence": "1.0.0",
+          "CLINICAL.Utilities": "1.0.0",
           "Microsoft.AspNetCore.OpenApi": "7.0.4",
           "Swashbuckle.AspNetCore": "6.5.0"
         },
@@ -567,6 +568,7 @@
       },
       "CLINICAL.Application.Interface/1.0.0": {
         "dependencies": {
+          "CLINICAL.Application.Dtos": "1.0.0",
           "CLINICAL.Domain": "1.0.0"
         },
         "runtime": {
@@ -580,6 +582,7 @@
           "CLINICAL.Application.Dtos": "1.0.0",
           "CLINICAL.Application.Interface": "1.0.0",
           "CLINICAL.Domain": "1.0.0",
+          "CLINICAL.Utilities": "1.0.0",
           "FluentValidation.DependencyInjectionExtensions": "11.5.1",
           "MediatR": "12.0.1"
         },
@@ -602,6 +605,11 @@
         },
         "runtime": {
           "CLINICAL.Persistence.dll": {}
+        }
+      },
+      "CLINICAL.Utilities/1.0.0": {
+        "runtime": {
+          "CLINICAL.Utilities.dll": {}
         }
       }
     }
@@ -1053,6 +1061,11 @@
       "sha512": ""
     },
     "CLINICAL.Persistence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CLINICAL.Utilities/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

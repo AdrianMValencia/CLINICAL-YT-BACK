@@ -23,9 +23,11 @@ C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.UseCase\bin\Debug\net7
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.UseCase\bin\Debug\net7.0\CLINICAL.Application.Dtos.dll
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.UseCase\bin\Debug\net7.0\CLINICAL.Application.Interface.dll
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.UseCase\bin\Debug\net7.0\CLINICAL.Domain.dll
+C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.UseCase\bin\Debug\net7.0\CLINICAL.Utilities.dll
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.UseCase\bin\Debug\net7.0\CLINICAL.Application.Dtos.pdb
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.UseCase\bin\Debug\net7.0\CLINICAL.Application.Interface.pdb
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.UseCase\bin\Debug\net7.0\CLINICAL.Domain.pdb
+C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.UseCase\bin\Debug\net7.0\CLINICAL.Utilities.pdb
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.UseCase\obj\Debug\net7.0\CLINICAL.Application.UseCase.csproj.AssemblyReference.cache
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.UseCase\obj\Debug\net7.0\CLINICAL.Application.UseCase.GeneratedMSBuildEditorConfig.editorconfig
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.UseCase\obj\Debug\net7.0\CLINICAL.Application.UseCase.AssemblyInfoInputs.cache
