@@ -9,12 +9,14 @@ namespace CLINICAL.Persistence.Repositories
         private readonly ApplicationDbContext _context;
         public IGenericRepository<Analysis> Analysis {get;}
         public IExamRepository Exam { get; }
+        public IPatientRepository Patient { get; }
 
         public UnitOfWork(ApplicationDbContext context, IGenericRepository<Analysis> analysis)
         {
             _context = context;
             Analysis = analysis;
             Exam = new ExamRepository(_context);
+            Patient = new PatientRepository(_context);
         }
 
         public void Dispose()
