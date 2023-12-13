@@ -9,3 +9,5 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CLINICAL.Application.Interface
 build_property.ProjectDir = C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.Interface\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -21,3 +21,4 @@ C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.Dtos\obj\Debug\net7.0\
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.Dtos\obj\Debug\net7.0\refint\CLINICAL.Application.Dtos.dll
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.Dtos\obj\Debug\net7.0\CLINICAL.Application.Dtos.pdb
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.Dtos\obj\Debug\net7.0\ref\CLINICAL.Application.Dtos.dll
+C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.Dtos\obj\Debug\net7.0\CLINICAL.Application.Dtos.sourcelink.json

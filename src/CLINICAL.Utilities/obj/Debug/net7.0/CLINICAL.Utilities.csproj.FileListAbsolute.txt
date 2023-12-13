@@ -21,3 +21,4 @@ C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Utilities\obj\Debug\net7.0\CLINICA
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Utilities\obj\Debug\net7.0\refint\CLINICAL.Utilities.dll
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Utilities\obj\Debug\net7.0\CLINICAL.Utilities.pdb
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Utilities\obj\Debug\net7.0\ref\CLINICAL.Utilities.dll
+C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Utilities\obj\Debug\net7.0\CLINICAL.Utilities.sourcelink.json

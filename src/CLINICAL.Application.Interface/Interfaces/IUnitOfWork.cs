@@ -7,5 +7,6 @@ namespace CLINICAL.Application.Interface.Interfaces
         IGenericRepository<Analysis> Analysis { get; }
         IExamRepository Exam { get; }
         IPatientRepository Patient { get; }
+        IMedicRepository Medic { get; }
     }
 }

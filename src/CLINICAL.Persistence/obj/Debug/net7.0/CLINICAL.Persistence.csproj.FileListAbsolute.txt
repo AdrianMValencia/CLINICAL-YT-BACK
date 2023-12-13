@@ -34,3 +34,4 @@ C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Persistence\obj\Debug\net7.0\CLINI
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Persistence\obj\Debug\net7.0\refint\CLINICAL.Persistence.dll
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Persistence\obj\Debug\net7.0\CLINICAL.Persistence.pdb
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Persistence\obj\Debug\net7.0\ref\CLINICAL.Persistence.dll
+C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Persistence\obj\Debug\net7.0\CLINICAL.Persistence.sourcelink.json

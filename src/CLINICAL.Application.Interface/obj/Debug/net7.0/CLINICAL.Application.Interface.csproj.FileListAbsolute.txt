@@ -30,3 +30,4 @@ C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.Interface\obj\Debug\ne
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.Interface\obj\Debug\net7.0\refint\CLINICAL.Application.Interface.dll
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.Interface\obj\Debug\net7.0\CLINICAL.Application.Interface.pdb
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.Interface\obj\Debug\net7.0\ref\CLINICAL.Application.Interface.dll
+C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.Interface\obj\Debug\net7.0\CLINICAL.Application.Interface.sourcelink.json

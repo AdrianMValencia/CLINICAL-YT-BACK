@@ -38,3 +38,4 @@ C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.UseCase\obj\Debug\net7
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.UseCase\obj\Debug\net7.0\refint\CLINICAL.Application.UseCase.dll
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.UseCase\obj\Debug\net7.0\CLINICAL.Application.UseCase.pdb
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.UseCase\obj\Debug\net7.0\ref\CLINICAL.Application.UseCase.dll
+C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.UseCase\obj\Debug\net7.0\CLINICAL.Application.UseCase.sourcelink.json

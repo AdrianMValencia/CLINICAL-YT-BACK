@@ -169,3 +169,4 @@ C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Api\obj\Debug\net7.0\refint\CLINIC
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Api\obj\Debug\net7.0\CLINICAL.Api.pdb
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Api\obj\Debug\net7.0\CLINICAL.Api.genruntimeconfig.cache
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Api\obj\Debug\net7.0\ref\CLINICAL.Api.dll
+C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Api\obj\Debug\net7.0\CLINICAL.Api.sourcelink.json

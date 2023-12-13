@@ -10,6 +10,7 @@ namespace CLINICAL.Persistence.Repositories
         public IGenericRepository<Analysis> Analysis {get;}
         public IExamRepository Exam { get; }
         public IPatientRepository Patient { get; }
+        public IMedicRepository Medic { get; }
 
         public UnitOfWork(ApplicationDbContext context, IGenericRepository<Analysis> analysis)
         {
@@ -17,6 +18,7 @@ namespace CLINICAL.Persistence.Repositories
             Analysis = analysis;
             Exam = new ExamRepository(_context);
             Patient = new PatientRepository(_context);
+            Medic = new MedicRepository(_context);
         }
 
         public void Dispose()

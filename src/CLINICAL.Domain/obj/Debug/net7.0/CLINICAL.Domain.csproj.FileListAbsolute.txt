@@ -21,3 +21,4 @@ C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Domain\obj\Debug\net7.0\CLINICAL.D
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Domain\obj\Debug\net7.0\refint\CLINICAL.Domain.dll
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Domain\obj\Debug\net7.0\CLINICAL.Domain.pdb
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Domain\obj\Debug\net7.0\ref\CLINICAL.Domain.dll
+C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Domain\obj\Debug\net7.0\CLINICAL.Domain.sourcelink.json
