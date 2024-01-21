@@ -8,5 +8,6 @@ namespace CLINICAL.Application.Interface.Interfaces
         IExamRepository Exam { get; }
         IPatientRepository Patient { get; }
         IMedicRepository Medic { get; }
+        ITakeExamRepository TakeExam { get; }
     }
 }
