@@ -1,4 +1,5 @@
 ﻿using CLINICAL.Domain.Entities;
+using System.Transactions;
 
 namespace CLINICAL.Application.Interface.Interfaces
 {
@@ -9,5 +10,6 @@ namespace CLINICAL.Application.Interface.Interfaces
         IPatientRepository Patient { get; }
         IMedicRepository Medic { get; }
         ITakeExamRepository TakeExam { get; }
+        TransactionScope BeginTransaction();
     }
 }
