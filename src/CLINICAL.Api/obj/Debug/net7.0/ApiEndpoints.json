@@ -1,0 +1,585 @@
+[
+  {
+    "ContainingType": "CLINICAL.Api.Controllers.AnalysisController",
+    "Method": "ListAnalysis",
+    "RelativePath": "api/Analysis",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "PageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CLINICAL.Api.Controllers.AnalysisController",
+    "Method": "AnalysisById",
+    "RelativePath": "api/Analysis/{analysisId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "analysisId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CLINICAL.Api.Controllers.AnalysisController",
+    "Method": "ChangeState",
+    "RelativePath": "api/Analysis/ChangeState",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "CLINICAL.Application.UseCase.UseCases.Analysis.Commands.ChangeStateCommand.ChangeStateAnalysisCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CLINICAL.Api.Controllers.AnalysisController",
+    "Method": "EditAnalysis",
+    "RelativePath": "api/Analysis/Edit",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "CLINICAL.Application.UseCase.UseCases.Analysis.Commands.UpdateCommand.UpdateAnalysisCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CLINICAL.Api.Controllers.AnalysisController",
+    "Method": "RegisterAnalysis",
+    "RelativePath": "api/Analysis/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "CLINICAL.Application.UseCase.UseCases.Analysis.Commands.CreateCommand.CreateAnalysisCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CLINICAL.Api.Controllers.AnalysisController",
+    "Method": "RemoveAnalysis",
+    "RelativePath": "api/Analysis/Remove/{analysisId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "analysisId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CLINICAL.Api.Controllers.ExamController",
+    "Method": "ExamById",
+    "RelativePath": "api/Exam/{examId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "examId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CLINICAL.Api.Controllers.ExamController",
+    "Method": "ChangeStateExam",
+    "RelativePath": "api/Exam/ChangeState",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "CLINICAL.Application.UseCase.UseCases.Exam.Commands.ChangeStateCommand.ChangeStateExamCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CLINICAL.Api.Controllers.ExamController",
+    "Method": "EditExam",
+    "RelativePath": "api/Exam/Edit",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "CLINICAL.Application.UseCase.UseCases.Exam.Commands.UpdateCommand.UpdateExamCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CLINICAL.Api.Controllers.ExamController",
+    "Method": "ListExams",
+    "RelativePath": "api/Exam/ListExams",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "PageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CLINICAL.Api.Controllers.ExamController",
+    "Method": "RegisterExam",
+    "RelativePath": "api/Exam/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "CLINICAL.Application.UseCase.UseCases.Exam.Commands.CreateCommand.CreateExamCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CLINICAL.Api.Controllers.ExamController",
+    "Method": "DeleteExam",
+    "RelativePath": "api/Exam/Remove/{examId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "examId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CLINICAL.Api.Controllers.MedicController",
+    "Method": "MedicById",
+    "RelativePath": "api/Medic/{medicId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "medicId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CLINICAL.Api.Controllers.MedicController",
+    "Method": "ChangeStateMedic",
+    "RelativePath": "api/Medic/ChangeState",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "CLINICAL.Application.UseCase.UseCases.Medic.Commands.ChangeStateCommand.ChangeStateMedicCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CLINICAL.Api.Controllers.MedicController",
+    "Method": "EditMedic",
+    "RelativePath": "api/Medic/Edit",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "CLINICAL.Application.UseCase.UseCases.Medic.Commands.UpdateCommand.UpdateMedicCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CLINICAL.Api.Controllers.MedicController",
+    "Method": "ListMedics",
+    "RelativePath": "api/Medic/ListMedics",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CLINICAL.Api.Controllers.MedicController",
+    "Method": "RegisterMedic",
+    "RelativePath": "api/Medic/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "CLINICAL.Application.UseCase.UseCases.Medic.Commands.CreateCommand.CreateMedicCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CLINICAL.Api.Controllers.MedicController",
+    "Method": "DeleteMedic",
+    "RelativePath": "api/Medic/Remove/{medicId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "medicId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CLINICAL.Api.Controllers.PatientController",
+    "Method": "PatientById",
+    "RelativePath": "api/Patient/{patientId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "patientId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CLINICAL.Api.Controllers.PatientController",
+    "Method": "ChangeStatePatient",
+    "RelativePath": "api/Patient/ChangeState",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "CLINICAL.Application.UseCase.UseCases.Patient.Command.ChangeStateCommand.ChangeStatePatientCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CLINICAL.Api.Controllers.PatientController",
+    "Method": "EditPatient",
+    "RelativePath": "api/Patient/Edit",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "CLINICAL.Application.UseCase.UseCases.Patient.Command.UpdateCommand.UpdatePatientCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CLINICAL.Api.Controllers.PatientController",
+    "Method": "ListPatient",
+    "RelativePath": "api/Patient/ListPatient",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CLINICAL.Api.Controllers.PatientController",
+    "Method": "RegisterPatient",
+    "RelativePath": "api/Patient/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "CLINICAL.Application.UseCase.UseCases.Patient.Command.CreateCommand.CreatePatientCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CLINICAL.Api.Controllers.PatientController",
+    "Method": "DeletePatient",
+    "RelativePath": "api/Patient/Remove/{patientId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "patientId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CLINICAL.Api.Controllers.ResultController",
+    "Method": "ResultById",
+    "RelativePath": "api/Result/{resultId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "resultId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CLINICAL.Api.Controllers.ResultController",
+    "Method": "EditResult",
+    "RelativePath": "api/Result/Edit",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ResultId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "TakeExamId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "ResultDetails",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CLINICAL.Application.UseCase.UseCases.Result.Commands.UpdateCommand.UpdateResultDetailCommand, CLINICAL.Application.UseCase, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CLINICAL.Api.Controllers.ResultController",
+    "Method": "ListResults",
+    "RelativePath": "api/Result/ListResults",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "PageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CLINICAL.Api.Controllers.ResultController",
+    "Method": "RegisterResult",
+    "RelativePath": "api/Result/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "TakeExamId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "ResultDetails",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CLINICAL.Application.UseCase.UseCases.Result.Commands.CreateCommand.CreateResultDetailCommand, CLINICAL.Application.UseCase, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CLINICAL.Api.Controllers.TakeExamController",
+    "Method": "TakeExamById",
+    "RelativePath": "api/TakeExam/{takeExamId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "takeExamId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CLINICAL.Api.Controllers.TakeExamController",
+    "Method": "ChangeStateExam",
+    "RelativePath": "api/TakeExam/ChangeState",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "CLINICAL.Application.UseCase.UseCases.TakeExam.Commands.ChangeStateCommand.ChangeStateTakeExamCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CLINICAL.Api.Controllers.TakeExamController",
+    "Method": "EditTakeExam",
+    "RelativePath": "api/TakeExam/Edit",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "CLINICAL.Application.UseCase.UseCases.TakeExam.Commands.UpdateCommand.UpdateTakeExamCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CLINICAL.Api.Controllers.TakeExamController",
+    "Method": "ListTakeExams",
+    "RelativePath": "api/TakeExam/ListTakeExams",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "PageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CLINICAL.Api.Controllers.TakeExamController",
+    "Method": "RegisterTakeExam",
+    "RelativePath": "api/TakeExam/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "CLINICAL.Application.UseCase.UseCases.TakeExam.Commands.CreateCommand.CreateTakeExamCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CLINICAL.Api.Controllers.UserController",
+    "Method": "Login",
+    "RelativePath": "api/User/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "query",
+        "Type": "CLINICAL.Application.UseCase.UseCases.User.Queries.LoginQuery.LoginQuery",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CLINICAL.Api.Controllers.UserController",
+    "Method": "RegisterUser",
+    "RelativePath": "api/User/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "CLINICAL.Application.UseCase.UseCases.User.Commands.CreateCommand.CreateUserCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

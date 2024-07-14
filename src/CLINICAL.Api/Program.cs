@@ -1,6 +1,8 @@
 using CLINICAL.Api.Extensions.Middleware;
 using CLINICAL.Application.UseCase.Extensions;
 using CLINICAL.Persistence.Extensions;
+using CLINICAL.Infrastructure.Extensions;
+using CLINICAL.Api.Authentication;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,8 +13,13 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddInjectionPersistence();
-builder.Services.AddInjectionApplication();
+builder.Services
+    .AddInjectionPersistence()
+    .AddInjectionApplication()
+    .AddInjectionInfrastructure(builder.Configuration)
+    .AddAuthentication(builder.Configuration);
+
+builder.Services.AddHttpContextAccessor();
 
 var app = builder.Build();
 
@@ -24,6 +31,10 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.UseStaticFiles();
+
+app.UseAuthentication();
 
 app.UseAuthorization();
 

@@ -34,3 +34,23 @@ C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Infrastructure\obj\Debug\net7.0\CL
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Infrastructure\obj\Debug\net7.0\refint\CLINICAL.Infrastructure.dll
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Infrastructure\obj\Debug\net7.0\CLINICAL.Infrastructure.pdb
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Infrastructure\obj\Debug\net7.0\ref\CLINICAL.Infrastructure.dll
+C:\Projects\CLINICAL\CLINICAL-YT-BACK\src\CLINICAL.Infrastructure\bin\Debug\net7.0\CLINICAL.Infrastructure.deps.json
+C:\Projects\CLINICAL\CLINICAL-YT-BACK\src\CLINICAL.Infrastructure\bin\Debug\net7.0\CLINICAL.Infrastructure.dll
+C:\Projects\CLINICAL\CLINICAL-YT-BACK\src\CLINICAL.Infrastructure\bin\Debug\net7.0\CLINICAL.Infrastructure.pdb
+C:\Projects\CLINICAL\CLINICAL-YT-BACK\src\CLINICAL.Infrastructure\bin\Debug\net7.0\CLINICAL.Application.Dtos.dll
+C:\Projects\CLINICAL\CLINICAL-YT-BACK\src\CLINICAL.Infrastructure\bin\Debug\net7.0\CLINICAL.Application.Interface.dll
+C:\Projects\CLINICAL\CLINICAL-YT-BACK\src\CLINICAL.Infrastructure\bin\Debug\net7.0\CLINICAL.Domain.dll
+C:\Projects\CLINICAL\CLINICAL-YT-BACK\src\CLINICAL.Infrastructure\bin\Debug\net7.0\CLINICAL.Application.Interface.pdb
+C:\Projects\CLINICAL\CLINICAL-YT-BACK\src\CLINICAL.Infrastructure\bin\Debug\net7.0\CLINICAL.Application.Dtos.pdb
+C:\Projects\CLINICAL\CLINICAL-YT-BACK\src\CLINICAL.Infrastructure\bin\Debug\net7.0\CLINICAL.Domain.pdb
+C:\Projects\CLINICAL\CLINICAL-YT-BACK\src\CLINICAL.Infrastructure\obj\Debug\net7.0\CLINICAL.Infrastructure.csproj.AssemblyReference.cache
+C:\Projects\CLINICAL\CLINICAL-YT-BACK\src\CLINICAL.Infrastructure\obj\Debug\net7.0\CLINICAL.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CLINICAL\CLINICAL-YT-BACK\src\CLINICAL.Infrastructure\obj\Debug\net7.0\CLINICAL.Infrastructure.AssemblyInfoInputs.cache
+C:\Projects\CLINICAL\CLINICAL-YT-BACK\src\CLINICAL.Infrastructure\obj\Debug\net7.0\CLINICAL.Infrastructure.AssemblyInfo.cs
+C:\Projects\CLINICAL\CLINICAL-YT-BACK\src\CLINICAL.Infrastructure\obj\Debug\net7.0\CLINICAL.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projects\CLINICAL\CLINICAL-YT-BACK\src\CLINICAL.Infrastructure\obj\Debug\net7.0\CLINICAL.Infrastructure.sourcelink.json
+C:\Projects\CLINICAL\CLINICAL-YT-BACK\src\CLINICAL.Infrastructure\obj\Debug\net7.0\CLINICAL.08C8341F.Up2Date
+C:\Projects\CLINICAL\CLINICAL-YT-BACK\src\CLINICAL.Infrastructure\obj\Debug\net7.0\CLINICAL.Infrastructure.dll
+C:\Projects\CLINICAL\CLINICAL-YT-BACK\src\CLINICAL.Infrastructure\obj\Debug\net7.0\refint\CLINICAL.Infrastructure.dll
+C:\Projects\CLINICAL\CLINICAL-YT-BACK\src\CLINICAL.Infrastructure\obj\Debug\net7.0\CLINICAL.Infrastructure.pdb
+C:\Projects\CLINICAL\CLINICAL-YT-BACK\src\CLINICAL.Infrastructure\obj\Debug\net7.0\ref\CLINICAL.Infrastructure.dll

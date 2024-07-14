@@ -4,10 +4,12 @@ using CLINICAL.Application.UseCase.UseCases.TakeExam.Commands.UpdateCommand;
 using CLINICAL.Application.UseCase.UseCases.TakeExam.Queries.GetAllQuery;
 using CLINICAL.Application.UseCase.UseCases.TakeExam.Queries.GetByIdQuery;
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CLINICAL.Api.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class TakeExamController : ControllerBase
@@ -49,7 +51,7 @@ namespace CLINICAL.Api.Controllers
         }
 
         [HttpPut("ChangeState")]
-        public async Task<IActionResult> ChangeStateExam([FromBody] ChangeStateTakeExamCommand command)
+        public async Task<IActionResult> ChangeStateTakeExam([FromBody] ChangeStateTakeExamCommand command)
         {
             var response = await _mediator.Send(command);
             return Ok(response);

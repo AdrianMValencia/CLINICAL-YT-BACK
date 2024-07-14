@@ -1,11 +1,58 @@
 {
   "Version": 1,
-  "Hash": "ZRN5pVDgLf7Rz4STDus2oqDleZ539mab0hE2AiLOnXo=",
+  "Hash": "B8MTMPWV0LUeTmqSj/vWUeppJGJ32sZ1Vp6xXp/dBQM=",
   "Source": "CLINICAL.Api",
   "BasePath": "_content/CLINICAL.Api",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "CLINICAL.Api\\wwwroot",
+      "Source": "CLINICAL.Api",
+      "ContentRoot": "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Api\\wwwroot\\",
+      "BasePath": "_content/CLINICAL.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Api\\wwwroot\\results\\345bf679-300b-4407-bde2-2d38844507e5.pdf",
+      "SourceId": "CLINICAL.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Api\\wwwroot\\",
+      "BasePath": "_content/CLINICAL.Api",
+      "RelativePath": "results/345bf679-300b-4407-bde2-2d38844507e5.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\results\\345bf679-300b-4407-bde2-2d38844507e5.pdf"
+    },
+    {
+      "Identity": "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Api\\wwwroot\\results\\911a1cb0-bfcd-4785-9ae3-444f4b5bd147.pdf",
+      "SourceId": "CLINICAL.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Api\\wwwroot\\",
+      "BasePath": "_content/CLINICAL.Api",
+      "RelativePath": "results/911a1cb0-bfcd-4785-9ae3-444f4b5bd147.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\results\\911a1cb0-bfcd-4785-9ae3-444f4b5bd147.pdf"
+    }
+  ]
 }

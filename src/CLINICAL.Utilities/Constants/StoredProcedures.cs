@@ -41,6 +41,15 @@
         #region uspTakeExams
         public const string uspTakeExamList = "uspTakeExamList";
         #endregion
+
+        #region uspResults
+        public const string uspResultList = "uspResultList";
+        #endregion
+
+        #region uspUsers
+        public const string uspUserRegister = "uspUserRegister";
+        public const string uspUserByEmail = "uspUserByEmail";
+        #endregion
     }
 
     public class TB
@@ -50,5 +59,6 @@
         public const string Medics = "Medics";
         public const string Patients = "Patients";
         public const string TakeExam = "TakeExam";
+        public const string Results = "Results";
     }
 }

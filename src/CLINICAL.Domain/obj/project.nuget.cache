@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3j9EjkZbRiQ4FQdUtgto7z7y6LgJbY9Ls5OWKuWdpa/C0ZUzWh9wjycN+BgLRLR3DmBoGc8rjfR/hTg4QbLBzg==",
+  "dgSpecHash": "KSYH03dGL+M=",
   "success": true,
-  "projectFilePath": "C:\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Domain\\CLINICAL.Domain.csproj",
+  "projectFilePath": "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Domain\\CLINICAL.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

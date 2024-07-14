@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Application.Interface\\CLINICAL.Application.Interface.csproj": {}
+    "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Application.Interface\\CLINICAL.Application.Interface.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Application.Dtos\\CLINICAL.Application.Dtos.csproj": {
+    "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Application.Dtos\\CLINICAL.Application.Dtos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Application.Dtos\\CLINICAL.Application.Dtos.csproj",
+        "projectUniqueName": "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Application.Dtos\\CLINICAL.Application.Dtos.csproj",
         "projectName": "CLINICAL.Application.Dtos",
-        "projectPath": "C:\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Application.Dtos\\CLINICAL.Application.Dtos.csproj",
-        "packagesPath": "C:\\Users\\Adrian M Valencia\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Application.Dtos\\obj\\",
+        "projectPath": "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Application.Dtos\\CLINICAL.Application.Dtos.csproj",
+        "packagesPath": "C:\\Users\\camv0\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Application.Dtos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Adrian M Valencia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\camv0\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -39,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -60,24 +65,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Application.Interface\\CLINICAL.Application.Interface.csproj": {
+    "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Application.Interface\\CLINICAL.Application.Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Application.Interface\\CLINICAL.Application.Interface.csproj",
+        "projectUniqueName": "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Application.Interface\\CLINICAL.Application.Interface.csproj",
         "projectName": "CLINICAL.Application.Interface",
-        "projectPath": "C:\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Application.Interface\\CLINICAL.Application.Interface.csproj",
-        "packagesPath": "C:\\Users\\Adrian M Valencia\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Application.Interface\\obj\\",
+        "projectPath": "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Application.Interface\\CLINICAL.Application.Interface.csproj",
+        "packagesPath": "C:\\Users\\camv0\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Application.Interface\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Adrian M Valencia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\camv0\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -93,11 +98,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Application.Dtos\\CLINICAL.Application.Dtos.csproj": {
-                "projectPath": "C:\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Application.Dtos\\CLINICAL.Application.Dtos.csproj"
+              "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Application.Dtos\\CLINICAL.Application.Dtos.csproj": {
+                "projectPath": "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Application.Dtos\\CLINICAL.Application.Dtos.csproj"
               },
-              "C:\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Domain\\CLINICAL.Domain.csproj": {
-                "projectPath": "C:\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Domain\\CLINICAL.Domain.csproj"
+              "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Domain\\CLINICAL.Domain.csproj": {
+                "projectPath": "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Domain\\CLINICAL.Domain.csproj"
               }
             }
           }
@@ -106,6 +111,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -123,28 +133,31 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Domain\\CLINICAL.Domain.csproj": {
+    "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Domain\\CLINICAL.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Domain\\CLINICAL.Domain.csproj",
+        "projectUniqueName": "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Domain\\CLINICAL.Domain.csproj",
         "projectName": "CLINICAL.Domain",
-        "projectPath": "C:\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Domain\\CLINICAL.Domain.csproj",
-        "packagesPath": "C:\\Users\\Adrian M Valencia\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Domain\\obj\\",
+        "projectPath": "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Domain\\CLINICAL.Domain.csproj",
+        "packagesPath": "C:\\Users\\camv0\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Adrian M Valencia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\camv0\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -166,6 +179,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -187,7 +205,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }

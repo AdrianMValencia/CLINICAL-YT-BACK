@@ -10,6 +10,8 @@ namespace CLINICAL.Application.Interface.Interfaces
         IPatientRepository Patient { get; }
         IMedicRepository Medic { get; }
         ITakeExamRepository TakeExam { get; }
+        IResultRepository Result { get; }
+        IUserRepository User { get; }
         TransactionScope BeginTransaction();
     }
 }

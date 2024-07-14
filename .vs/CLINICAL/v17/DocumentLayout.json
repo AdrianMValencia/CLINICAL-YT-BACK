@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E80E49D-9B77-43FB-9F42-E9DDEBE7827F}|src\\CLINICAL.Api\\CLINICAL.Api.csproj|c:\\projects\\clinical\\clinical-yt-back\\src\\clinical.api\\controllers\\analysiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E80E49D-9B77-43FB-9F42-E9DDEBE7827F}|src\\CLINICAL.Api\\CLINICAL.Api.csproj|solutionrelative:src\\clinical.api\\controllers\\analysiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1D61F2-3254-453C-B0CB-8E77AED445EB}|src\\CLINICAL.Infrastructure\\CLINICAL.Infrastructure.csproj|c:\\projects\\clinical\\clinical-yt-back\\src\\clinical.infrastructure\\authentication\\haspermissionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1D61F2-3254-453C-B0CB-8E77AED445EB}|src\\CLINICAL.Infrastructure\\CLINICAL.Infrastructure.csproj|solutionrelative:src\\clinical.infrastructure\\authentication\\haspermissionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1D61F2-3254-453C-B0CB-8E77AED445EB}|src\\CLINICAL.Infrastructure\\CLINICAL.Infrastructure.csproj|c:\\projects\\clinical\\clinical-yt-back\\src\\clinical.infrastructure\\authentication\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1D61F2-3254-453C-B0CB-8E77AED445EB}|src\\CLINICAL.Infrastructure\\CLINICAL.Infrastructure.csproj|solutionrelative:src\\clinical.infrastructure\\authentication\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E80E49D-9B77-43FB-9F42-E9DDEBE7827F}|src\\CLINICAL.Api\\CLINICAL.Api.csproj|c:\\projects\\clinical\\clinical-yt-back\\src\\clinical.api\\controllers\\takeexamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E80E49D-9B77-43FB-9F42-E9DDEBE7827F}|src\\CLINICAL.Api\\CLINICAL.Api.csproj|solutionrelative:src\\clinical.api\\controllers\\takeexamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E80E49D-9B77-43FB-9F42-E9DDEBE7827F}|src\\CLINICAL.Api\\CLINICAL.Api.csproj|c:\\projects\\clinical\\clinical-yt-back\\src\\clinical.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E80E49D-9B77-43FB-9F42-E9DDEBE7827F}|src\\CLINICAL.Api\\CLINICAL.Api.csproj|solutionrelative:src\\clinical.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E80E49D-9B77-43FB-9F42-E9DDEBE7827F}|src\\CLINICAL.Api\\CLINICAL.Api.csproj|c:\\projects\\clinical\\clinical-yt-back\\src\\clinical.api\\controllers\\resultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E80E49D-9B77-43FB-9F42-E9DDEBE7827F}|src\\CLINICAL.Api\\CLINICAL.Api.csproj|solutionrelative:src\\clinical.api\\controllers\\resultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E80E49D-9B77-43FB-9F42-E9DDEBE7827F}|src\\CLINICAL.Api\\CLINICAL.Api.csproj|c:\\projects\\clinical\\clinical-yt-back\\src\\clinical.api\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E80E49D-9B77-43FB-9F42-E9DDEBE7827F}|src\\CLINICAL.Api\\CLINICAL.Api.csproj|solutionrelative:src\\clinical.api\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E80E49D-9B77-43FB-9F42-E9DDEBE7827F}|src\\CLINICAL.Api\\CLINICAL.Api.csproj|c:\\projects\\clinical\\clinical-yt-back\\src\\clinical.api\\controllers\\mediccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E80E49D-9B77-43FB-9F42-E9DDEBE7827F}|src\\CLINICAL.Api\\CLINICAL.Api.csproj|solutionrelative:src\\clinical.api\\controllers\\mediccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E80E49D-9B77-43FB-9F42-E9DDEBE7827F}|src\\CLINICAL.Api\\CLINICAL.Api.csproj|c:\\projects\\clinical\\clinical-yt-back\\src\\clinical.api\\controllers\\examcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E80E49D-9B77-43FB-9F42-E9DDEBE7827F}|src\\CLINICAL.Api\\CLINICAL.Api.csproj|solutionrelative:src\\clinical.api\\controllers\\examcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HasPermissionAttribute.cs",
+              "DocumentMoniker": "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Infrastructure\\Authentication\\HasPermissionAttribute.cs",
+              "RelativeDocumentMoniker": "src\\CLINICAL.Infrastructure\\Authentication\\HasPermissionAttribute.cs",
+              "ToolTip": "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Infrastructure\\Authentication\\HasPermissionAttribute.cs",
+              "RelativeToolTip": "src\\CLINICAL.Infrastructure\\Authentication\\HasPermissionAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T21:21:04.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "src\\CLINICAL.Api\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "src\\CLINICAL.Api\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T21:18:04.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TakeExamController.cs",
+              "DocumentMoniker": "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Api\\Controllers\\TakeExamController.cs",
+              "RelativeDocumentMoniker": "src\\CLINICAL.Api\\Controllers\\TakeExamController.cs",
+              "ToolTip": "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Api\\Controllers\\TakeExamController.cs",
+              "RelativeToolTip": "src\\CLINICAL.Api\\Controllers\\TakeExamController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwDUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T21:17:17.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResultController.cs",
+              "DocumentMoniker": "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Api\\Controllers\\ResultController.cs",
+              "RelativeDocumentMoniker": "src\\CLINICAL.Api\\Controllers\\ResultController.cs",
+              "ToolTip": "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Api\\Controllers\\ResultController.cs",
+              "RelativeToolTip": "src\\CLINICAL.Api\\Controllers\\ResultController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T21:16:56.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Api\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "src\\CLINICAL.Api\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Api\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "src\\CLINICAL.Api\\Controllers\\PatientController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwDwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T21:16:00.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Permission.cs",
+              "DocumentMoniker": "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Infrastructure\\Authentication\\Permission.cs",
+              "RelativeDocumentMoniker": "src\\CLINICAL.Infrastructure\\Authentication\\Permission.cs",
+              "ToolTip": "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Infrastructure\\Authentication\\Permission.cs",
+              "RelativeToolTip": "src\\CLINICAL.Infrastructure\\Authentication\\Permission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T21:12:26.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnalysisController.cs",
+              "DocumentMoniker": "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Api\\Controllers\\AnalysisController.cs",
+              "RelativeDocumentMoniker": "src\\CLINICAL.Api\\Controllers\\AnalysisController.cs",
+              "ToolTip": "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Api\\Controllers\\AnalysisController.cs",
+              "RelativeToolTip": "src\\CLINICAL.Api\\Controllers\\AnalysisController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAzwBYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T21:12:59.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MedicController.cs",
+              "DocumentMoniker": "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Api\\Controllers\\MedicController.cs",
+              "RelativeDocumentMoniker": "src\\CLINICAL.Api\\Controllers\\MedicController.cs",
+              "ToolTip": "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Api\\Controllers\\MedicController.cs",
+              "RelativeToolTip": "src\\CLINICAL.Api\\Controllers\\MedicController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowD4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T21:15:23.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExamController.cs",
+              "DocumentMoniker": "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Api\\Controllers\\ExamController.cs",
+              "RelativeDocumentMoniker": "src\\CLINICAL.Api\\Controllers\\ExamController.cs",
+              "ToolTip": "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Api\\Controllers\\ExamController.cs",
+              "RelativeToolTip": "src\\CLINICAL.Api\\Controllers\\ExamController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowD0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T21:14:22.865Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

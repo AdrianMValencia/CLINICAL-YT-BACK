@@ -31,6 +31,19 @@
           "lib/netstandard2.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll": {}
         }
       },
+      "BCrypt.Net-Next/4.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/BCrypt.Net-Next.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/BCrypt.Net-Next.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "FluentValidation/11.5.1": {
         "type": "package",
         "compile": {
@@ -190,7 +203,10 @@
         },
         "runtime": {
           "bin/placeholder/CLINICAL.Application.Interface.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "CLINICAL.Domain/1.0.0": {
         "type": "project",
@@ -242,6 +258,37 @@
         "automapper.extensions.microsoft.dependencyinjection.nuspec",
         "icon.png",
         "lib/netstandard2.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll"
+      ]
+    },
+    "BCrypt.Net-Next/4.0.3": {
+      "sha512": "W+U9WvmZQgi5cX6FS5GDtDoPzUCV4LkBLkywq/kRZhuDwcbavOzcDAr3LXJFqHUi952Yj3LEYoWW0jbEUQChsA==",
+      "type": "package",
+      "path": "bcrypt.net-next/4.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "bcrypt.net-next.4.0.3.nupkg.sha512",
+        "bcrypt.net-next.nuspec",
+        "ico.png",
+        "lib/net20/BCrypt.Net-Next.dll",
+        "lib/net20/BCrypt.Net-Next.xml",
+        "lib/net35/BCrypt.Net-Next.dll",
+        "lib/net35/BCrypt.Net-Next.xml",
+        "lib/net462/BCrypt.Net-Next.dll",
+        "lib/net462/BCrypt.Net-Next.xml",
+        "lib/net472/BCrypt.Net-Next.dll",
+        "lib/net472/BCrypt.Net-Next.xml",
+        "lib/net48/BCrypt.Net-Next.dll",
+        "lib/net48/BCrypt.Net-Next.xml",
+        "lib/net5.0/BCrypt.Net-Next.dll",
+        "lib/net5.0/BCrypt.Net-Next.xml",
+        "lib/net6.0/BCrypt.Net-Next.dll",
+        "lib/net6.0/BCrypt.Net-Next.xml",
+        "lib/netstandard2.0/BCrypt.Net-Next.dll",
+        "lib/netstandard2.0/BCrypt.Net-Next.xml",
+        "lib/netstandard2.1/BCrypt.Net-Next.dll",
+        "lib/netstandard2.1/BCrypt.Net-Next.xml",
+        "readme.md"
       ]
     },
     "FluentValidation/11.5.1": {
@@ -504,6 +551,7 @@
     "net7.0": [
       "AutoMapper >= 12.0.1",
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 12.0.0",
+      "BCrypt.Net-Next >= 4.0.3",
       "CLINICAL.Application.Dtos >= 1.0.0",
       "CLINICAL.Application.Interface >= 1.0.0",
       "CLINICAL.Domain >= 1.0.0",
@@ -513,23 +561,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Adrian M Valencia\\.nuget\\packages\\": {},
+    "C:\\Users\\camv0\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Application.UseCase\\CLINICAL.Application.UseCase.csproj",
+      "projectUniqueName": "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Application.UseCase\\CLINICAL.Application.UseCase.csproj",
       "projectName": "CLINICAL.Application.UseCase",
-      "projectPath": "C:\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Application.UseCase\\CLINICAL.Application.UseCase.csproj",
-      "packagesPath": "C:\\Users\\Adrian M Valencia\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Application.UseCase\\obj\\",
+      "projectPath": "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Application.UseCase\\CLINICAL.Application.UseCase.csproj",
+      "packagesPath": "C:\\Users\\camv0\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Application.UseCase\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Adrian M Valencia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\camv0\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -545,17 +593,17 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Application.Dtos\\CLINICAL.Application.Dtos.csproj": {
-              "projectPath": "C:\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Application.Dtos\\CLINICAL.Application.Dtos.csproj"
+            "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Application.Dtos\\CLINICAL.Application.Dtos.csproj": {
+              "projectPath": "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Application.Dtos\\CLINICAL.Application.Dtos.csproj"
             },
-            "C:\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Application.Interface\\CLINICAL.Application.Interface.csproj": {
-              "projectPath": "C:\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Application.Interface\\CLINICAL.Application.Interface.csproj"
+            "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Application.Interface\\CLINICAL.Application.Interface.csproj": {
+              "projectPath": "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Application.Interface\\CLINICAL.Application.Interface.csproj"
             },
-            "C:\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Domain\\CLINICAL.Domain.csproj": {
-              "projectPath": "C:\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Domain\\CLINICAL.Domain.csproj"
+            "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Domain\\CLINICAL.Domain.csproj": {
+              "projectPath": "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Domain\\CLINICAL.Domain.csproj"
             },
-            "C:\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Utilities\\CLINICAL.Utilities.csproj": {
-              "projectPath": "C:\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Utilities\\CLINICAL.Utilities.csproj"
+            "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Utilities\\CLINICAL.Utilities.csproj": {
+              "projectPath": "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Utilities\\CLINICAL.Utilities.csproj"
             }
           }
         }
@@ -564,6 +612,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -577,6 +630,10 @@
           "AutoMapper.Extensions.Microsoft.DependencyInjection": {
             "target": "Package",
             "version": "[12.0.0, )"
+          },
+          "BCrypt.Net-Next": {
+            "target": "Package",
+            "version": "[4.0.3, )"
           },
           "FluentValidation.DependencyInjectionExtensions": {
             "target": "Package",
@@ -603,7 +660,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   }

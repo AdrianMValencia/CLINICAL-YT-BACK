@@ -39,3 +39,25 @@ C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.UseCase\obj\Debug\net7
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.UseCase\obj\Debug\net7.0\CLINICAL.Application.UseCase.pdb
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.UseCase\obj\Debug\net7.0\ref\CLINICAL.Application.UseCase.dll
 C:\Projects\CLINICAL YT\CLINICAL\src\CLINICAL.Application.UseCase\obj\Debug\net7.0\CLINICAL.Application.UseCase.sourcelink.json
+C:\Projects\CLINICAL\CLINICAL-YT-BACK\src\CLINICAL.Application.UseCase\bin\Debug\net7.0\CLINICAL.Application.UseCase.deps.json
+C:\Projects\CLINICAL\CLINICAL-YT-BACK\src\CLINICAL.Application.UseCase\bin\Debug\net7.0\CLINICAL.Application.UseCase.dll
+C:\Projects\CLINICAL\CLINICAL-YT-BACK\src\CLINICAL.Application.UseCase\bin\Debug\net7.0\CLINICAL.Application.UseCase.pdb
+C:\Projects\CLINICAL\CLINICAL-YT-BACK\src\CLINICAL.Application.UseCase\bin\Debug\net7.0\CLINICAL.Application.Dtos.dll
+C:\Projects\CLINICAL\CLINICAL-YT-BACK\src\CLINICAL.Application.UseCase\bin\Debug\net7.0\CLINICAL.Application.Interface.dll
+C:\Projects\CLINICAL\CLINICAL-YT-BACK\src\CLINICAL.Application.UseCase\bin\Debug\net7.0\CLINICAL.Domain.dll
+C:\Projects\CLINICAL\CLINICAL-YT-BACK\src\CLINICAL.Application.UseCase\bin\Debug\net7.0\CLINICAL.Utilities.dll
+C:\Projects\CLINICAL\CLINICAL-YT-BACK\src\CLINICAL.Application.UseCase\bin\Debug\net7.0\CLINICAL.Application.Dtos.pdb
+C:\Projects\CLINICAL\CLINICAL-YT-BACK\src\CLINICAL.Application.UseCase\bin\Debug\net7.0\CLINICAL.Application.Interface.pdb
+C:\Projects\CLINICAL\CLINICAL-YT-BACK\src\CLINICAL.Application.UseCase\bin\Debug\net7.0\CLINICAL.Domain.pdb
+C:\Projects\CLINICAL\CLINICAL-YT-BACK\src\CLINICAL.Application.UseCase\bin\Debug\net7.0\CLINICAL.Utilities.pdb
+C:\Projects\CLINICAL\CLINICAL-YT-BACK\src\CLINICAL.Application.UseCase\obj\Debug\net7.0\CLINICAL.Application.UseCase.csproj.AssemblyReference.cache
+C:\Projects\CLINICAL\CLINICAL-YT-BACK\src\CLINICAL.Application.UseCase\obj\Debug\net7.0\CLINICAL.Application.UseCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CLINICAL\CLINICAL-YT-BACK\src\CLINICAL.Application.UseCase\obj\Debug\net7.0\CLINICAL.Application.UseCase.AssemblyInfoInputs.cache
+C:\Projects\CLINICAL\CLINICAL-YT-BACK\src\CLINICAL.Application.UseCase\obj\Debug\net7.0\CLINICAL.Application.UseCase.AssemblyInfo.cs
+C:\Projects\CLINICAL\CLINICAL-YT-BACK\src\CLINICAL.Application.UseCase\obj\Debug\net7.0\CLINICAL.Application.UseCase.csproj.CoreCompileInputs.cache
+C:\Projects\CLINICAL\CLINICAL-YT-BACK\src\CLINICAL.Application.UseCase\obj\Debug\net7.0\CLINICAL.Application.UseCase.sourcelink.json
+C:\Projects\CLINICAL\CLINICAL-YT-BACK\src\CLINICAL.Application.UseCase\obj\Debug\net7.0\CLINICAL.F6C627A9.Up2Date
+C:\Projects\CLINICAL\CLINICAL-YT-BACK\src\CLINICAL.Application.UseCase\obj\Debug\net7.0\CLINICAL.Application.UseCase.dll
+C:\Projects\CLINICAL\CLINICAL-YT-BACK\src\CLINICAL.Application.UseCase\obj\Debug\net7.0\refint\CLINICAL.Application.UseCase.dll
+C:\Projects\CLINICAL\CLINICAL-YT-BACK\src\CLINICAL.Application.UseCase\obj\Debug\net7.0\CLINICAL.Application.UseCase.pdb
+C:\Projects\CLINICAL\CLINICAL-YT-BACK\src\CLINICAL.Application.UseCase\obj\Debug\net7.0\ref\CLINICAL.Application.UseCase.dll

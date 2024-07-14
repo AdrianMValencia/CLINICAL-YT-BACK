@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Api\\wwwroot\\results\\345bf679-300b-4407-bde2-2d38844507e5.pdf",
+      "PackagePath": "staticwebassets\\results\\345bf679-300b-4407-bde2-2d38844507e5.pdf"
+    },
+    {
+      "Id": "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Api\\wwwroot\\results\\911a1cb0-bfcd-4785-9ae3-444f4b5bd147.pdf",
+      "PackagePath": "staticwebassets\\results\\911a1cb0-bfcd-4785-9ae3-444f4b5bd147.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.CLINICAL.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.CLINICAL.Api.props",
+      "PackagePath": "build\\CLINICAL.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.CLINICAL.Api.props",
+      "PackagePath": "buildMultiTargeting\\CLINICAL.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.CLINICAL.Api.props",
+      "PackagePath": "buildTransitive\\CLINICAL.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

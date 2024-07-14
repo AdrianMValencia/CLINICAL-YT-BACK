@@ -5,10 +5,12 @@ using CLINICAL.Application.UseCase.UseCases.Medic.Commands.UpdateCommand;
 using CLINICAL.Application.UseCase.UseCases.Medic.Queries.GetAllQuery;
 using CLINICAL.Application.UseCase.UseCases.Medic.Queries.GetByIdQuery;
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CLINICAL.Api.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class MedicController : ControllerBase

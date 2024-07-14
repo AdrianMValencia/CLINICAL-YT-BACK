@@ -4,11 +4,14 @@ using CLINICAL.Application.UseCase.UseCases.Analysis.Commands.DeleteCommand;
 using CLINICAL.Application.UseCase.UseCases.Analysis.Commands.UpdateCommand;
 using CLINICAL.Application.UseCase.UseCases.Analysis.Queries.GetAllQuery;
 using CLINICAL.Application.UseCase.UseCases.Analysis.Queries.GetByIdQuery;
+using CLINICAL.Infrastructure.Authentication;
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CLINICAL.Api.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class AnalysisController : ControllerBase
@@ -20,6 +23,7 @@ namespace CLINICAL.Api.Controllers
             _mediator = mediator;
         }
 
+        //[HasPermission(Permission.ListAnalysis)]
         [HttpGet]
         public async Task<IActionResult> ListAnalysis([FromQuery] GetAllAnalysisQuery query)
         {

@@ -6,10 +6,12 @@ using CLINICAL.Application.UseCase.UseCases.Exam.Queries.GetAllQuery;
 using CLINICAL.Application.UseCase.UseCases.Exam.Queries.GetByIdQuery;
 using CLINICAL.Domain.Entities;
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CLINICAL.Api.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class ExamController : ControllerBase

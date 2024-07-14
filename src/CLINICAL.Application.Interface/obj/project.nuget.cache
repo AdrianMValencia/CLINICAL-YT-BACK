@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xfDzsKS3eCxGgONblu6V1F9uTyNzxq46RduaKeWhsJDjzdoxjMbSdGLJbzax2gbAF8FThgw+zg/jnhGJumOZEw==",
+  "dgSpecHash": "W8ikmPFHAjM=",
   "success": true,
-  "projectFilePath": "C:\\Projects\\CLINICAL YT\\CLINICAL\\src\\CLINICAL.Application.Interface\\CLINICAL.Application.Interface.csproj",
+  "projectFilePath": "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Application.Interface\\CLINICAL.Application.Interface.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
