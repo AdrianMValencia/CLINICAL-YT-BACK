@@ -1120,6 +1120,7 @@
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "CLINICAL.Application.Interface": "1.0.0",
+          "CLINICAL.Persistence": "1.0.0",
           "Microsoft.Extensions.Configuration": "7.0.0",
           "Microsoft.Extensions.Options.ConfigurationExtensions": "7.0.0",
           "Microsoft.IdentityModel.Tokens": "7.5.2",
@@ -3077,7 +3078,8 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/CEMUSAPE/_packaging/LibeyFeed/nuget/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {

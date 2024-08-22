@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "iATiwQrO3QY=",
+  "dgSpecHash": "37zw25K1Yns=",
   "success": true,
   "projectFilePath": "C:\\Projects\\CLINICAL\\CLINICAL-YT-BACK\\src\\CLINICAL.Application.UseCase\\CLINICAL.Application.UseCase.csproj",
   "expectedPackageFiles": [
@@ -17,5 +17,18 @@
     "C:\\Users\\camv0\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\camv0\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error al obtener los datos de vulnerabilidad del paquete: No se puede cargar el índice de servicio del origen https://api.nuget.org/v3/index.json."
+    },
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error al obtener los datos de vulnerabilidad del paquete: No se puede cargar el índice de servicio del origen https://pkgs.dev.azure.com/CEMUSAPE/_packaging/LibeyFeed/nuget/v3/index.json."
+    }
+  ]
 }
